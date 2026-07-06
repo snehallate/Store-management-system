@@ -1,5 +1,6 @@
 # Store-management-system
 Repository Link: https://github.com/snehallate/Store-management-system
+
 A modern **Java-based desktop application** developed using **Java Swing** and **MySQL** to efficiently manage store operations such as inventory, customers, orders, and order items.
 
 This project provides an interactive **Graphical User Interface (GUI)** for seamless database operations and demonstrates the implementation of **JDBC connectivity**, **CRUD operations**, and **database management** in Java.
