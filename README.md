@@ -5,7 +5,7 @@ A modern **Java-based desktop application** developed using **Java Swing** and *
 
 This project provides an interactive **Graphical User Interface (GUI)** for seamless database operations and demonstrates the implementation of **JDBC connectivity**, **CRUD operations**, and **database management** in Java.
 
----
+
 
 # 📌 Project Overview
 
@@ -19,7 +19,7 @@ The **Store Management System** is designed to simplify store administration by 
 
 The application connects to a **MySQL database** and allows users to perform operations through an easy-to-use Java Swing interface.
 
----
+
 
 # ✨ Features
 
@@ -67,7 +67,7 @@ The application connects to a **MySQL database** and allows users to perform ope
 * Handles invalid user inputs
 * Prevents application crashes
 
----
+
 
 # 🛠️ Technologies Used
 
@@ -79,10 +79,7 @@ The application connects to a **MySQL database** and allows users to perform ope
 | 🔌 JDBC         | Database connectivity       |
 | 🧠 OOP Concepts | Object-Oriented Programming |
 
----
 
-
----
 
 # 🗃️ Database Setup
 
@@ -90,7 +87,7 @@ The application connects to a **MySQL database** and allows users to perform ope
 
 Launch MySQL Command Line Client or MySQL Workbench.
 
----
+
 
 ## Step 2: Create Database
 
@@ -98,7 +95,6 @@ Launch MySQL Command Line Client or MySQL Workbench.
 CREATE DATABASE store_db;
 ```
 
----
 
 ## Step 3: Use Database
 
@@ -106,7 +102,7 @@ CREATE DATABASE store_db;
 USE store_db;
 ```
 
----
+
 
 ## Step 4: Import SQL File
 
@@ -116,7 +112,7 @@ Import the provided SQL file:
 database/store_db.sql
 ```
 
----
+
 
 # ▶️ How to Run the Project
 
@@ -129,7 +125,7 @@ Before running the project, ensure you have:
 * MySQL JDBC Connector added
 * IntelliJ IDEA / Eclipse IDE
 
----
+
 
 ## Steps to Execute
 
@@ -139,7 +135,7 @@ Before running the project, ensure you have:
 git clone https://github.com/your-username/Store-Management-System.git
 ```
 
----
+
 
 ### 2️⃣ Open Project in IDE
 
@@ -148,13 +144,13 @@ Open the project using:
 * IntelliJ IDEA
 * Eclipse
 
----
+
 
 ### 3️⃣ Add JDBC Connector
 
 Add the MySQL JDBC Connector `.jar` file to project libraries.
 
----
+
 
 ### 4️⃣ Configure Database Credentials
 
@@ -165,7 +161,7 @@ private final String userName = "root";
 private final String password = "your_password";
 ```
 
----
+
 
 ### 5️⃣ Run Application
 
@@ -175,7 +171,7 @@ Execute:
 StoreManagementSystem.java
 ```
 
----
+
 
 # 🖥️ GUI Preview
 
@@ -189,7 +185,6 @@ Example:
 ![GUI](screenshots/gui.png)
 ```
 
----
 
 # 📊 Sample Database Output
 
@@ -206,7 +201,6 @@ Example:
 # Output 
 <img width="565" height="181" alt="image" src="https://github.com/user-attachments/assets/e317a1d7-3c91-4c48-bfff-e7ece5ec7fe7" />
 
----
 
 # 🔄 Workflow
 
@@ -214,7 +208,7 @@ Example:
 User Input → Java Swing GUI → JDBC Connectivity → MySQL Database
 ```
 
----
+
 
 # 📖 Concepts Implemented
 
@@ -226,7 +220,7 @@ User Input → Java Swing GUI → JDBC Connectivity → MySQL Database
 * Database Management
 * Object-Oriented Programming
 
----
+
 
 # 🚀 Future Enhancements
 
@@ -237,7 +231,7 @@ User Input → Java Swing GUI → JDBC Connectivity → MySQL Database
 * 🌐 Online Database Hosting
 * 📊 Dashboard Analytics
 
----
+
 
 # 🎯 Learning Outcomes
 
