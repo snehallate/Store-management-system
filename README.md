@@ -73,11 +73,11 @@ The application connects to a **MySQL database** and allows users to perform ope
 
 | Technology      | Description                 |
 | --------------- | --------------------------- |
-| ☕ Java          | Core programming language   |
-| 🎨 Java Swing   | GUI development             |
-| 🗄️ MySQL       | Database management         |
-| 🔌 JDBC         | Database connectivity       |
-| 🧠 OOP Concepts | Object-Oriented Programming |
+|   Java          | Core programming language   |
+|   Java Swing    | GUI development             |
+|   MySQL         | Database management         |
+|   JDBC          | Database connectivity       |
+|   OOP Concepts  | Object-Oriented Programming |
 
 
 
